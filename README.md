@@ -4,7 +4,7 @@ Issue: [#10842](https://github.com/dotansimha/graphql-code-generator/issues/1084
 
 ## Setup
 
-1. Use Windows 10, Node v24.16.0, Powershell console
+1. Use Windows 10, Node v24.16.0
 2. `npm install`
 3. `npm run codegen`
 
